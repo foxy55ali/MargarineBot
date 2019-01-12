@@ -26,4 +26,4 @@ const client = new Komada.Client({
     cmdLogging: false,
 });
 
-client.login(config.token);
+client.login(config.NTMzNjYxNzI4NTA0ODA3NDM3.DxuS7g.5Rku_GgJmpX2W_Iku9gZ1MbjS5A);
